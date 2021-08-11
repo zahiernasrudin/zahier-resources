@@ -1,2 +1,2 @@
-# zahier-notes
-My personal notes.
+# zahier-resources
+My personal notes/resources.
